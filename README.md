@@ -1,7 +1,7 @@
 Arch Linux Live USB with Gnome
 ===========================
 
-![archiso-liveusb-gnome](https://github.com/jorisdrenth/archiso-liveusb-gnome/blob/main/archiso-liveusb-gnome?raw=true)
+![archiso-liveusb-gnome](https://github.com/jorisdrenth/archiso-liveusb-gnome/blob/main/archiso-liveusb-gnome.png?raw=true)
 
 About
 -----
