@@ -119,7 +119,7 @@ zsh
 gdm
 gnome-shell
 gnome-session
-gnome-terminal
+gnome-console
 mesa
 gnome-control-center
 gnome-settings-daemon

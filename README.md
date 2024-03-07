@@ -9,7 +9,7 @@ This repo is based on the default archiso releng profile, which is used to creat
 
 The following has been added:
 - Gnome
-- Gnome Terminal
+- Gnome Console
 - Firefox
 - Nautilus
 - nano
