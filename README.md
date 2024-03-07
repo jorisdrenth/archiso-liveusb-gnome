@@ -14,7 +14,7 @@ The following has been added:
 - Nautilus
 - nano
 - xorg-drivers
-- gedit
+- Gnome Text Editor
 - eog
 - some configs for autologin and darkmode
 - [a wallpaper](airootfs/usr/local/share/backgrounds/wallpaper.png)
