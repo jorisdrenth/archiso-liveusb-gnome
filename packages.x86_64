@@ -29,7 +29,7 @@ exfatprogs
 f2fs-tools
 fatresize
 fsarchiver
-gnu-netcat
+#gnu-netcat # conflict with openbsd-netcat
 gpart
 gpm
 gptfdisk
@@ -84,7 +84,7 @@ pv
 qemu-guest-agent
 refind
 reflector
-reiserfsprogs
+#reiserfsprogs # missing in repos
 rp-pppoe
 rsync
 rxvt-unicode-terminfo
@@ -107,7 +107,8 @@ usb_modeswitch
 usbmuxd
 usbutils
 vim
-virtualbox-guest-utils-nox
+# Installing virtualbox-guest-utils with X11 support
+virtualbox-guest-utils #-nox
 vpnc
 wireless-regdb
 wireless_tools
@@ -130,3 +131,4 @@ networkmanager
 gnome-text-editor
 eog
 nano
+xorg # VMSVGA support (Virtualbox, VMware)
